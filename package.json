@@ -1,0 +1,23 @@
+{
+  "name": "graded-pieces",
+  "version": "0.0.1",
+  "description": "html version of http://www.pianoworld.com/Uploads/files/Graded_Pieces_Sorted_By_Difficulty.PDF",
+  "main": "index.html",
+  "scripts": {
+    "test": "test",
+    "build": "node bin/build.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sosloow/graded-pieces.git"
+  },
+  "author": "Stepan Shilin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sosloow/graded-pieces/issues"
+  },
+  "homepage": "https://github.com/sosloow/graded-pieces#readme",
+  "devDependencies": {
+    "ejs": "^2.4.1"
+  }
+}
